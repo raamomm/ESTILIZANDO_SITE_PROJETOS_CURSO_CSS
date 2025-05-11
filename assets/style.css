@@ -101,7 +101,7 @@ div button{
 
 
 #course-content{
-    width: 100%;
+    width: 792px;
     height: 325px;
     text-align: center;
     margin-left: 324px;
@@ -168,7 +168,7 @@ section#transform-world{
     width: 1440px;
     height: 363px;
     margin-top: 100px;
-    margin-left: 100px;
+    margin-left: 110px;
     background-image: url('./images/woman-code.png');
     background-position: center;
     background-repeat: no-repeat;
