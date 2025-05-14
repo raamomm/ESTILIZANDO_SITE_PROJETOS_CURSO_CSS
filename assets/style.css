@@ -101,7 +101,6 @@ div button{
     width: 100vw;
     max-width: 1440px;
     text-align: center;
-    border: 1px solid red;
     margin: 150px auto auto;
 
     
@@ -114,7 +113,6 @@ div button{
     font-size: 2rem;
     letter-spacing: 8px;
     margin-bottom: 38px;
-    border: 1px solid red;
     color: transparent;
     background-image: linear-gradient(to bottom, #33A8DB, #1472B7);
     background-clip: text;
