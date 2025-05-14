@@ -134,7 +134,8 @@ div button{
 
 .modules-list{
     margin-top: 16px;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
     font-size: 1rem;
 
 
@@ -143,11 +144,24 @@ div button{
 
 
 .module{
-    
+    width: 50vw;
+    display: block;
+    margin: auto auto;
+    color: white;
+}
+
+div .module{
+    width: 24vw;
+    padding: 10px;
     background-color: #252525;
+    border: 1px solid #33A8DB;
+    border-radius: 37px 37px;
+    margin-top: 14px;
+    
 }
 
 .module span{
+    text-align: left;
     text-transform: capitalize;
     color:#33A8DB;
     
