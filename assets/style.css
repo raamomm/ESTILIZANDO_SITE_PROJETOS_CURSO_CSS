@@ -196,4 +196,22 @@ div .module{
 }
 
 
+#professional-challenges{
+    width: 50vw;
+    max-width: 1440px;
+    text-align: center;
+    margin: auto auto;
+}
+
+#professional-challenges h2{
+    margin: 100px auto 40px auto;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;
+    letter-spacing: 8px;
+    color: #33A8DB;
+    background-clip: text;
+    text-transform: uppercase;
+}
+
 
